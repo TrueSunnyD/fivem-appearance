@@ -1,6 +1,6 @@
 # qbcore-fivem-appearance
 
-This is something i converted for my server. I do not take any credit for the UI all I've done is converted the LUA side for the clothing shops, barber shops and saved outfits from https://github.com/ZiggyJoJo/brp-fivem-appearance to the QB-Core Framework with Mulitcharacter Support & Optimised.
+I take no credit for making this script. I just forked this script and am making the changes to my liking. 
 
 Orginal Script + UI: https://forum.cfx.re/t/release-fivem-appearance/2438537
 
