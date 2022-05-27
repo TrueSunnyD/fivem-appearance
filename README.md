@@ -1,6 +1,6 @@
 # qbcore-fivem-appearance
 
-I take no credit for making this script. I just forked this script and am making the changes to my liking. 
+I take no credit for making this script. I just forked this script and am making the changes to my liking. - TrueSunnyD
 
 Orginal Script + UI: https://forum.cfx.re/t/release-fivem-appearance/2438537
 
